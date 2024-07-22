@@ -1,0 +1,34 @@
+﻿/* Archivo: Styles/site.css */
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.welcome-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.sidebar-menu {
+    margin-top: 20px;
+}
+
+    .sidebar-menu ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .sidebar-menu li {
+        margin: 10px 0;
+    }
+
+    .sidebar-menu a {
+        text-decoration: none;
+        color: #007bff;
+        font-weight: bold;
+    }
+
+        .sidebar-menu a:hover {
+            text-decoration: underline;
+        }
